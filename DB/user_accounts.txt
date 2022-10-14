@@ -1,0 +1,33 @@
+    Username      |  Password   |     Encoded Password
+------------------|-------------|--------------------------------------------------------------
+fletchingcarry	  |  gPeD827F   | $2a$10$Qj8lZGsMjsT7kB1vgmOJJeczS6.YbZjvX9YH4z6Jdedqd9IB5MASG 
+draughtgrist	  |  ArPNnM9P   | $2a$10$zW1u8c1W2c2CtAEUuyT2rOCVg0x83561Ui0fz0QhSe42kstDyk0IC
+pretzelscorched	  |  WybVw6Hh   | $2a$10$HaIA4cFuTXgrqbnxt8JnvuKne9kyafLAkaDT/UqsNFXNIazWqB9GO
+chivalrousbit	  |  ap4x8FTU   | $2a$10$6gyHY5cZLlgZIXNNN9ml8O.SEkigF7B25pb2tvV8dAlDD7io06Qn.
+dronerain	      |  juTazTjC   | $2a$10$3S6BtNB6z6a1o7w7.dlCFedmLtHw/idTRClErMjnTzHFn7Lb8zsuq
+gildcrabby	      |  dfuDDSkc   | $2a$10$x/ZSSFogJVQZ33B26tpQ8uGVPR.fWafeQiJ.ZYNVbDf/KxuzBx2ou
+milksopbold	      |  TXy337cD   | $2a$10$otijtroGh7FxkHrk.h.yJuXBPEGQKO83wywpAKvI8Z0WuRD/XS.t2
+fixedplastic	  |  Bep5sxLa   | $2a$10$Z1b57DqqLNXrEq.ZpyMeDOYpG.UZuqkK.W.cGa5Ix7dFTpawJzW8e
+controlnappy	  |  czFvTx3e   | $2a$10$qJbhfY8wfBDFfQwBV/yRtO/QIm4m/MYifRew/uU9C43KU26aWLpc2
+dreamjudo	      |  BfQ9JMxt   | $2a$10$13PhPJzSeg1AQPSE30oCPelLfeQk7PyyyALpbixgWcO71FGQ2jXcW
+corruptcandycane  |	 C9WuvxdP   | $2a$10$HTOew6J85yUrvqtyQPhw1OjlMhnKqmrXvBr7q9jc0tTkhWxA5n0XC
+coterielaveer	  |  zRrwSSZ2   | $2a$10$NMubTIT4hi92YZYZDuIHdOGZFst0M2otXEgdX.ZB4x7rbAytZR58W
+folkreiterate	  |  xYKEXkpA   | $2a$10$2KZg5Bg1RG1JGf6SHEl0.u9jmHgFYEPd631X5DuMWHilCCnACvaVC
+loosegrizzled	  |  bFqsP6jU   | $2a$10$eYbtoiIVRpHq1t/67/AF/u4/e5voFJfnxVUFKGimyma8Raxk1wqOa
+admin	          |   admin     | $2a$10$ZCn1FoV0r3sb7OZLQPAxCu9J1apcsE5nDk.IG8BKCGLwmV58J1cFu
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

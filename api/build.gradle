@@ -1,0 +1,42 @@
+plugins {
+	id 'org.springframework.boot' version '2.6.7'
+	id 'io.spring.dependency-management' version '1.0.11.RELEASE'
+	id 'java'
+}
+
+group = 'com.auctionpalace'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '17'
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+	maven{
+		url "https://mvnrepository.com/artifact/com.auth0/java-jwt"
+		url "https://mvnrepository.com/artifact/io.jsonwebtoken/jjwt"
+	}
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	compileOnly 'org.projectlombok:lombok'
+	runtimeOnly 'mysql:mysql-connector-java'
+	compileOnly 'org.springframework.boot:spring-boot-devtools'
+	annotationProcessor 'org.projectlombok:lombok'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	implementation 'org.springframework.security:spring-security-core:5.7.1'
+	implementation 'org.springframework.security:spring-security-web:5.7.1'
+	implementation 'org.springframework.security:spring-security-config:5.7.1'
+	implementation 'com.auth0:java-jwt:3.19.2'
+	implementation 'io.jsonwebtoken:jjwt:0.9.1'
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
